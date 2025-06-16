@@ -12,3 +12,42 @@
     border-radius: 10px;
     padding: 40px 50px;
 }
+
+.container hr{
+    height: 2px;
+    border: none;
+    background: #707070;
+}
+
+.container h2{
+    font-size: 27px;
+    font-weight: 600;
+}
+
+.container ul li{
+    display: flex;
+    align-items: center;
+    padding-left: 15px;
+    height: 70px;
+    border: 1px solid #686868;
+    border-radius: 10px;
+    cursor: pointer;
+    font-size: 20px;
+}
+
+.container button{
+    margin: auto;
+    width:250px;
+    height: 65px;
+    background: #fa8ad6;
+    color: white;
+    font-size: 25px;
+    font-weight: 500;
+    border-radius: 8px;
+    cursor: pointer;
+}
+
+.container .index{
+    margin: auto;
+    font-size: 18px;
+}
