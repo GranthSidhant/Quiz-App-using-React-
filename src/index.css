@@ -6,5 +6,6 @@
 body{
   height: 100vh;
   background-image: linear-gradient( #fa8ad6, #ff3131);
+  font-family: "poppins";
 }
 
