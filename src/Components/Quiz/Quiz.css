@@ -51,3 +51,15 @@
     margin: auto;
     font-size: 18px;
 }
+
+.container .correct{
+    background: white;
+    background-color:rgb(96, 244, 96);
+}
+
+
+
+.container  .wrong{
+    background: white;
+    background-color: rgb(255, 0, 0);
+}
